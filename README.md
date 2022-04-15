@@ -1,6 +1,6 @@
 # translate_practice_app
 
-Translate App created to complete topcoder chalange. Status: Fix - Completed
+Translate App created to complete topcoder chalange. Status: Error http 429 - Completed
 
 Depedency:
 1. http
